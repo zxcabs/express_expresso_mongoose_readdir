@@ -1,0 +1,12 @@
+{
+	"name": "express_expresso_mongoose_readdir",
+	"version": "0.0.1",
+	"author": "Evgeny Reznichenko <kusakyky@gmail.com>",
+	"dependencies": {
+		"mongoose": "2.2.2",
+		"express": "2.4.6",
+		"expresso": "0.8.1"
+	},
+	"repository": "git@github.com:zxcabs/express_expresso_mongoose_readdir.git",
+	"main": "index"
+}
